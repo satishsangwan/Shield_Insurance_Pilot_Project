@@ -54,7 +54,11 @@ In this project, I identified 17 key features necessary for complete business an
 
 ### 1. **Home Page**  
    A summary of key KPIs including total customers and revenue with navigation to other pages.
-![Home Page](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Home_GIF.gif)
+   
+ <p align="center"> 
+  <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Home_GIF.gif" alt="dim_customer"/>  
+  </p>   
+
 ### 2. **General View**  
    A comparison of customer growth and revenue growth, including a toggle to switch between trends.
 ![General View](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/General%20View_GIF.gif)
