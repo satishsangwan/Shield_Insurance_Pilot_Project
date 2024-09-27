@@ -2,6 +2,11 @@
 # Shield Insurance Pilot Project - Power BI Dashboard
 
 ## Project Overview
+
+**Domain:** Insurance  
+**Function:** Sales  
+**Company:** Shield Insurance
+
 As a Data Analyst intern at AtliQ Technologies, I completed this pilot project for **Shield Insurance**, focusing on customer and revenue analysis. The goal of this project was to provide insights into customer growth, revenue trends, and policy analysis to support business decision-making. This project showcases my ability to translate business requirements into meaningful data visualizations using Power BI.
 
 ### Project Scope
