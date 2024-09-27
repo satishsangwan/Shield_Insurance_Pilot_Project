@@ -50,6 +50,9 @@ In this project, I identified 17 key features necessary for complete business an
 
 ## Dashboard Pages Breakdown
 
+You can view the live Shield Insurance Power BI dashboard by clicking the link below:
+[View Shield Insurance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhmMjc0ZGMtNDBiMy00ZjdjLWE1ZTItNGI5N2VhNDdhYTFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ### 1. **Home Page**  
    The Home Page serves as the landing page of the dashboard, providing easy navigation to various key sections, including:
 - **General View**
@@ -128,7 +131,6 @@ This analysis allows the business to quickly identify which segments are contrib
 ## Tools & Technologies Used
 - **Power BI**: Main tool for data visualization and dashboard creation.
 - **Excel**: Used for feature listing and initial data analysis.
-- **SQL**: For extracting and transforming data where needed.
 
 ## Conclusion
 This project helped Shield Insurance monitor key business metrics in an easy-to-navigate dashboard while showcasing my ability to handle end-to-end analytics projects. From data cleaning to visualization, I delivered a solution that provides deep insights into their customer and revenue trends.
