@@ -53,35 +53,69 @@ In this project, I identified 17 key features necessary for complete business an
 ## Dashboard Pages Breakdown
 
 ### 1. **Home Page**  
-   A summary of key KPIs including total customers and revenue with navigation to other pages.
-   
+   The Home Page serves as the landing page of the dashboard, providing easy navigation to various key sections, including:
+- **General View**
+- **Sales Mode Analysis**
+- **Age Group Analysis**
+- **Top/Bottom Analysis**
+
+It also includes important information such as:
+- Links to the **Info** and **Support** pages for further guidance.
+- The **last data refresh date** and the **data coverage period**, ensuring that users are aware of the data's currency.
+
  <p align="center"> 
   <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Home_GIF.gif" alt="Home Page"/>  
   </p>   
 
 ### 2. **General View**  
-   A comparison of customer growth and revenue growth, including a toggle to switch between trends.
+   The General View offers a comprehensive overview of Shield Insurance's performance, highlighting key metrics such as:
+- **Total Revenue**
+- **Total Customers**
+- **Daily Revenue Growth**
+- **Daily Customer Growth**
+
+Each metric is displayed using card visuals, which also include the previous month's values and the percentage change compared to the last month, allowing for quick comparisons. Additionally, this page presents:
+- **Revenue and Customer Trends** over time using line charts.
+- A **Month-over-Month (MoM) change table** showcasing critical metrics.
+- A **bar chart** breaking down revenue and customer data by **city** and **age group**.
    
    <p align="center"> 
   <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/General%20View_GIF.gif" alt="General View"/>  
   </p>   
 
 ### 3. **Sales Mode Analysis**  
-   Insights on sales modes (e.g., Online vs Offline) to understand customer behavior and revenue sources.
+The Sales Mode Analysis page is designed to provide insights into revenue and customer data segmented by **sales mode**. This includes an analysis of the following sales channels:
+- **Offline-Agent**
+- **Offline-Direct**
+- **Online-App**
+- **Online-Website**
+
+The page features:
+- A **trend analysis** of both customers and revenue over the months, segmented by sales mode.
+- Visual representations of customer behavior and sales performance by different policy sales modes.
 
   <p align="center"> 
   <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Sales%20Mode_GIF.gif" alt="Sales Mode"/>  
   </p>  
   
 ### 4. **Age Group Analysis**  
-   Segments customers by age group, showcasing their contribution to revenue, policy settlements, and sales mode preferences.
+The Age Group Analysis page focuses on the impact of different age groups on Shield Insurance's business. It includes:
+- A **table visual** displaying the number of customers within each age group, segmented by **policy type** and **sales mode**.
+- A **trend analysis** showing customer behavior over time for various age groups.
+- A **bar chart** depicting the **expected policy settlements** based on age groups, which helps in understanding customer demographics and potential policy outcomes.
 
    <p align="center"> 
   <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Age%20Group_GIF.gif" alt="Age Group"/>  
   </p>
 
 ### 5. **Top/Bottom Analysis**  
-   Highlights top-performing and underperforming customer segments, sales modes, and policies.
+The Top/Bottom Analysis page provides a detailed comparison of the top-performing and underperforming segments across multiple categories, such as:
+- **City**
+- **Age Group**
+- **Sales Mode**
+- **Policy ID**
+
+This analysis allows the business to quickly identify which segments are contributing the most and least to the company's growth, facilitating data-driven decision-making and strategic focus.
 
    <p align="center"> 
   <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Top%20Bottom_GIF.gif" alt="Top Bottom"/>  
