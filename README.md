@@ -29,6 +29,8 @@ The analysis was performed on data from **five CSV files** provided by Shield In
 4. **fact_premiums.csv**: Contains premium data such as sales date, policy ID, and sales mode.
 5. **fact_settlements.csv**: Data on policy settlements segmented by age.
 
+## Data Model   
+![Data Model](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Data%20Model.png)
 ## Key Features & Metrics
 In this project, I identified 17 key features necessary for complete business analysis, such as:
 - Total customers
