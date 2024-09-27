@@ -1,3 +1,4 @@
+![Dashboard](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Dashboad_Image.png)
 # Shield Insurance Pilot Project - Power BI Dashboard
 
 ## Project Overview
