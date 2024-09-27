@@ -56,21 +56,37 @@ In this project, I identified 17 key features necessary for complete business an
    A summary of key KPIs including total customers and revenue with navigation to other pages.
    
  <p align="center"> 
-  <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Home_GIF.gif" alt="dim_customer"/>  
+  <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Home_GIF.gif" alt="Home Page"/>  
   </p>   
 
 ### 2. **General View**  
    A comparison of customer growth and revenue growth, including a toggle to switch between trends.
-![General View](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/General%20View_GIF.gif)
+   
+   <p align="center"> 
+  <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/General%20View_GIF.gif" alt="General View"/>  
+  </p>   
+
 ### 3. **Sales Mode Analysis**  
    Insights on sales modes (e.g., Online vs Offline) to understand customer behavior and revenue sources.
-![Sales Mode](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Sales%20Mode_GIF.gif)
+
+  <p align="center"> 
+  <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Sales%20Mode_GIF.gif" alt="Sales Mode"/>  
+  </p>  
+  
 ### 4. **Age Group Analysis**  
    Segments customers by age group, showcasing their contribution to revenue, policy settlements, and sales mode preferences.
-![Age Group](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Age%20Group_GIF.gif)
+
+   <p align="center"> 
+  <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Age%20Group_GIF.gif" alt="Age Group"/>  
+  </p>
+
 ### 5. **Top/Bottom Analysis**  
    Highlights top-performing and underperforming customer segments, sales modes, and policies.
-![Top Bottom](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Top%20Bottom_GIF.gif)
+
+   <p align="center"> 
+  <img src= "https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Top%20Bottom_GIF.gif" alt="Top Bottom"/>  
+  </p>
+
 ## Key Learnings & Skills Demonstrated
 - **Data Preparation**: Cleaned and transformed data from various sources to make it ready for analysis.
 - **Data Visualization**: Created dynamic and interactive visualizations in Power BI, allowing users to toggle between graphs and filter data by sales mode, city, age group, and more.
