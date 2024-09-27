@@ -36,14 +36,33 @@ The analysis was performed on data from **five CSV files** provided by Shield In
 
 ## Data Model   
 ![Data Model](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Data%20Model.png)
+
 ## Key Features & Metrics
-In this project, I identified 17 key features necessary for complete business analysis, such as:
-- Total customers
-- Total revenue
-- Daily revenue growth rate
-- Policy changes month-over-month
-- Customer segmentation by city and age group
-- Sales mode trend analysis
+In this project, I identified 17 key features necessary for complete business analysis, which are given in the table below :
+
+| Sr. No.| Features    | Comments    |Priority|
+|--------|-------------|-------------|--------|
+| 1|Show total customers, total revenue, daily revenue growth, daily customer growth as key metrics| To monitor all the crucial metrics|High|
+| 2|Month over month change% on key metrics| Tracking the month-over-month change in policies on key metrics can offer valuable insights into a company's performance trends.|High|
+| 3| Segment customers based on their age groups: 18-24, 25-30, 31-40, 41-50, 51-65, and 65+.| To categorise customers into different age group to better understand behavior and preferences.|High|
+|4|Total revenue split by age group, city|To identify most profitable customer demographics and geographical areas|High|
+|5|Total customers split by age group, city|To understand customer's locations and age groups, we can customize our products and marketing strategies.|High|
+|6|Customers, daily customers growth trend by month|To understand customers growth trends over time and spot changes in customer behavior and adjust our marketing efforts accordingly|Low|
+|7|Revenue, daily revenue growth trend by month|To track business's financial performance and growth trends over time and spot any changes or fluctuations in revenue.|Low|
+|8|Create a switch between revenue trend graph and customer trend graph |Switching between revenue trend and customer trend graphs enhances the user experience by providing a more customized and efficient way to view the data.|Low|
+|9| Filters on sale mode, age group, city, month, policy ID|Provides users with the ability to filter and sort data according to specific parameters, allowing for a more targeted and efficient analysis |High|
+|10| Separate page for sales mode analysis|A dedicated page for sales mode analysis|High|
+|11|Total customers split percentage by sales mode|Provides insights into which modes are most effective in attracting and retaining customers|High|
+|12|Total revenue split percentage by sales mode|Providing insights into which modes are most effective in generating revenue for the business|High|
+|13|Trend of sales mode over month|To understand the trend of sales mode over the month|Low|
+|14|Separate page for age group analysis|A dedicated page for age group analysis|High|
+|15|Age group vs expected settlement|To know what is the expected annual settlement|High|
+|16|Age group vs sales mode|To understand what sales mode people prefer by age group|Low|
+|17|Age group vs policy preference|To understand what policy people buy by age group|High|
+
+
+
+
 
 ## Project Workflow
 
