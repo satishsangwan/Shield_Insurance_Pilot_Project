@@ -1,4 +1,4 @@
-[Dashboard](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Dashboad_Image.png)
+![Dashboard](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/images/Dashboad_Image.png)
 # Shield Insurance Pilot Project - Power BI Dashboard
 
 ## Project Overview
@@ -42,7 +42,7 @@ In this project, I identified 17 key features necessary for complete business an
 
 ## Project Workflow
 
-1. **Feature List Creation**: Created a list of 17 key metrics essential for analyzing Shield Insurance's performance and tracking key business metrics. Click here to view [Feature List]()
+1. **Feature List Creation**: Created a list of 17 key metrics essential for analyzing Shield Insurance's performance and tracking key business metrics. Click here to view [Feature List](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/benchmark_feature_list.xlsx)
    
 2. **Mockup Dashboard**: Developed a mockup dashboard that incorporated Shield Insurance’s feedback. This provided a clear layout for three pages: General View, Sales Mode Analysis, and Age Group Analysis. Click Here to view [Mockup Dashboard](https://github.com/satishsangwan/Shield_Insurance_Pilot_Project/blob/main/client_updated_mockup.pdf)
 
